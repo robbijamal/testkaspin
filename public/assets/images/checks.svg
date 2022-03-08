@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>check (1)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Advanced-Payment-Deals-R2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-(1)" fill-rule="nonzero">
+            <path d="M12,0 C5.4046875,0 0,5.4046875 0,12 C0,18.5953125 5.4046875,24 12,24 C18.5953125,24 24,18.5953125 24,12 C24,5.4046875 18.5953125,0 12,0 Z" id="Path" fill="#0070E0"></path>
+            <path d="M24,12 C24,18.5953125 18.5953125,24 12,24 L12,0 C18.5953125,0 24,5.4046875 24,12 Z" id="Path" fill="#0560BB"></path>
+            <polygon id="Path" fill="#E7E7E7" points="19.2702656 9.525 12 16.134375 10.5515156 17.45625 5.29214063 12.196875 7.275 10.2140156 10.6359844 13.575 12 12.3375 17.3859844 7.44375"></polygon>
+            <polygon id="Path" fill="#D3D3D8" points="19.2702656 9.525 12 16.134375 12 12.3375 17.3859844 7.44375"></polygon>
+        </g>
+    </g>
+</svg>

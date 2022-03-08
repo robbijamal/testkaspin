@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="272px" height="480px" viewBox="0 0 272 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>smartphone (3)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1258.000000, -856.000000)" fill-rule="nonzero">
+            <g id="smartphone-(3)" transform="translate(1258.000000, 856.000000)">
+                <path d="M240,0 L32,0 C14.327,0 0,14.327 0,32 L0,440 C0.026,462.08 17.92,479.974 40,480 L232,480 C254.08,479.974 271.974,462.08 272,440 L272,32 C272,14.327 257.673,0 240,0 Z M256,440 C256,453.255 245.255,464 232,464 L40,464 C26.745,464 16,453.255 16,440 L16,432 L256,432 L256,440 Z M256,416 L16,416 L16,64 L256,64 L256,416 Z M256,48 L16,48 L16,32 C16,23.163 23.163,16 32,16 L240,16 C248.837,16 256,23.163 256,32 L256,48 Z" id="Shape" fill="#545454"></path>
+                <rect id="Rectangle" fill="#545454" x="120" y="440" width="32" height="16"></rect>
+                <path d="M216,184 L56,184 C51.582,184 48,187.582 48,192 L48,288 C48,292.418 51.582,296 56,296 L216,296 C220.418,296 224,292.418 224,288 L224,192 C224,187.582 220.418,184 216,184 Z M196.688,200 L136,260.688 L75.312,200 L196.688,200 Z M208,280 L136,280 L64,280 L64,211.312 L130.344,277.656 C133.468,280.779 138.532,280.779 141.656,277.656 L208,211.312 L208,280 Z" id="Shape" fill="#1D8AFD"></path>
+            </g>
+        </g>
+    </g>
+</svg>
