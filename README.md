@@ -6,6 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## TEST KASPIN
+file testkaspin.sql ada di dalam folder root project
+user admin,staf,guest
+admin username/password => admin@gmail.com/test12345
+staf username/password => staf@gmail.com/staf12345
 
 ## About Laravel
 
