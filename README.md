@@ -1,9 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-## TEST KASPIN
-file testkaspin.sql ada di dalam folder root project
+<h3>## TEST KASPIN</h3>
+<p>file testkaspin.sql ada di dalam folder root project
 user admin,staf,guest
 admin username/password => admin@gmail.com/test12345
-staf username/password => staf@gmail.com/staf12345
+staf username/password => staf@gmail.com/staf12345</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
